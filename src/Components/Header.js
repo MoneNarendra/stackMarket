@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
     return (
         <center>
-            <h1>Stock Market Prediction App</h1>
+            <h1>Stock Market Prediction Application</h1>
         </center>
     );
 }
